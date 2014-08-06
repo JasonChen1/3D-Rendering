@@ -1,0 +1,22 @@
+/* Code for COMP261 Assignment3
+ * Name:difu chen
+ * Usercode:chendifu
+ * ID:300252166
+
+ */
+
+
+describe what your code does and doesn't do.
+My code does stage 1, 1.5 and 2 can not do step 3 and 4 
+
+All the calculation method are in my polygon class. in the render class it sets the bounds of the image and draws it
+In my imageGUI class it setup the GUI for the program. EdgeList class just to store the edges of the images.
+
+describe any bugs that you have not been able to resolve.
+when i try to draw the shape.txt some of the polygon are over laping each other in the wrong way.
+
+outline how you tested that your program worked.
+use print methods and keep running it over and over again
+
+describe any of the extensions you did and discuss the results.
+I used a JSlider to change the AmbientLight and the intensity of the image it works fine.
